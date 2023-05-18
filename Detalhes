@@ -1,0 +1,6 @@
+# MVC-MYSQL-FILMES
+MVC - MYSQL (Filmes)
+No projeto em MVC foi utilizado o Apache Tomcat 9.0 e Workbench 6.3. 
+As classes ficaram em suas respectivas pastas controller, model e view.
+ A linguagem utilizada foi Java, na IDE Eclipse.
+ O banco de dados utilizado foi o MySql.
